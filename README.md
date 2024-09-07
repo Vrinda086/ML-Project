@@ -16,3 +16,7 @@ Find relation between gill-size and gill spacing.<br>
 do a analysis over the stalk of mushroom .<br>
 Which plot will be the best to show relation between color and class of mushrom.<br>
 Find a relation between population and Habitat of Mushroom <br>
+<br>
+<br>
+Google Colab File Link - <https://colab.research.google.com/drive/1leJrxGKHiWfwfVVKzwclhJZgYlwekPFP?usp=sharing>
+<br>
