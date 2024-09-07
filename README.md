@@ -18,5 +18,5 @@ Which plot will be the best to show relation between color and class of mushrom.
 Find a relation between population and Habitat of Mushroom <br>
 <br>
 <br>
-Google Colab File Link - <https://colab.research.google.com/drive/1leJrxGKHiWfwfVVKzwclhJZgYlwekPFP?usp=sharing>
+Google Colab File Link - https://colab.research.google.com/drive/1leJrxGKHiWfwfVVKzwclhJZgYlwekPFP?usp=sharing
 <br>
